@@ -5,3 +5,4 @@ int b=8;
 int square=a*a;
 int cube=b*b*b;
 printf("%d,%d",square,cube);
+}
